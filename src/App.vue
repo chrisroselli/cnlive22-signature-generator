@@ -5,10 +5,10 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-              <img src="http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/treehouse-2017-all_white-2.png" alt="" width="250" />
+            <icon-base icon-name="cnlive"><cnliveLogo /></icon-base>
           </div>
         <h1 class="sub-text title has-text-centered">
-            <p>Email Signature Generator</p> 
+            <p>Signature Generator</p> 
         </h1>
         </div>
       </div>
@@ -156,7 +156,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #6fac44;
+  border-top: 1px dashed #0e3b7b;
 }
 .gif-box ul {
     text-align:left;
@@ -199,24 +199,24 @@ input:disabled {
   margin-right: 100px;
 }
 .hero.is-primary {
-  background-color: rgb(111, 172, 68);
+  background-color: #0e3b7b;
 }
 .button {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #6fac44;
+  background-color: #0e3b7b;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #77bb46;
+  background-color: #FF7F30;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #77bb46;
+  border-color: #FF7F30;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
@@ -224,7 +224,7 @@ input:disabled {
   margin-top: 20px;
 }
 .sub-text p {
-  color: #473f3d;
+  color: #fff;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 200;
   font-size: 38;
@@ -233,7 +233,7 @@ input:disabled {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #77bb46;
+  border-color: #FF7F30;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
