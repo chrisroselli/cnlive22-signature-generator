@@ -60,7 +60,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Treehouse logo and click and drag to bottom-right corner of <img style="border-radius:0;moz-border-radius:0;khtml-border-radius:0;o-border-radius:0;webkit-border-radius:0;ms-border-radius:0;border: 0;width:16px; height:16px;" width="16" height="16" src="http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/instagram_sig.png"></li>
+              <li>1. Place cursor at the top-left corner of CNLIVE logo and click & drag to bottom-right corner of <img style="border-radius:0;moz-border-radius:0;khtml-border-radius:0;o-border-radius:0;webkit-border-radius:0;ms-border-radius:0;border: 0;width:16px; height:16px;" width="16" height="16" src="http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/cnlive-instagram.png"></li>
               <li>2. Paste into your Outlook signature preferences panel</li>
               <li>3. Adjust logo size if needed</li>
               <li>4. Result may look funny in Signature preferences, but try in a new message</li>
@@ -68,23 +68,55 @@
           <img src="http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/sign-copy3.gif" alt="">
         </div>
           </modal>
-  
     </div>
- 
+    <hr>
+   <div class="container main">  
+      <div>  
+        <div class="columns">
+<!----------------- Output Badge ---------------->       
+          <div class="column">
+              <h3 class="subtitle" style="margin-bottom:0">
+                Badge Only</h3>
+                <p>Click, drag, then copy badge below into email signature.</p>
+                <button @click="toggleShow, $modal.show('badge')" class="button is-success" type="submit">
+                Demo
+            </button>
+              <br><br>
+            <outputBadge/>     
+          </div>
+        </div>
+      </div>
+    </div>
+
+<!----------------- Badge Modal ---------------->   
+
+        <modal name="badge" :height="240">
+                    <div class="sign-box level-item has-text-centered">
+              <div class="output-btn">
+                  <p class="field">
+                      <a class="button is-small" @click="$modal.hide('badge')">
+                        <span class="icon is-small">
+                          <i class="fa fa-times"></i>
+                        </span>
+                      </a>
+                    </p>
+                </div>
+           <img src="http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/cnlive.gif" alt="">
+           
+          </div>
+        </modal>    
+
 <!----------------- Footer ---------------->
     <footer class="" id="footer">
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2017 Treehouse Internet Group Inc.
+                    &copy;2018 Contractor Nation
                 </p>
             </div>
         </div>
     </footer>
-  
- 
   </div>
-
 </template>
 
 <!-------------------------- Scripts ---------------------------->
