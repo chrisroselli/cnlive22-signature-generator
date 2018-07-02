@@ -81,7 +81,7 @@
                 <button @click="toggleShow, $modal.show('badge')" class="button is-success" type="submit">
                 Demo
             </button>
-              <br><br>
+              <br><br><br>
             <outputBadge/>     
           </div>
         </div>
