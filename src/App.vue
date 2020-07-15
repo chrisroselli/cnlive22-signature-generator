@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <icon-base icon-name="cnlive"><cnliveLogo /></icon-base>
+           <img src="https://cdn.treehouseinternetgroup.com/cms_images/2535/CN%20Live%2020_OrangeWhite-Logo_RGB.png" alt="">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -111,7 +111,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2018 Contractor Nation
+                    &copy;2020 Contractor Nation
                 </p>
             </div>
         </div>
@@ -166,7 +166,9 @@ export default {
 
 <!-------------------------- Styles ---------------------------->
 <style scoped>
-
+.th-logo img {
+  width: 550px;
+}
 
 li {
   padding-left: 15px; 
