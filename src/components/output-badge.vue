@@ -35,7 +35,6 @@
             </td>
           </tr>
         </table>
-    
     </section>
   </div>
 </template>
