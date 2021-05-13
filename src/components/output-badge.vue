@@ -8,10 +8,10 @@
             "padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
             <a href="https://www.contractornationlive.com/"><img width="175"
                     height="96" style="width: 175px; max-width: 175px !175important; height: 96px; max-height: 96px !important;" id="preview-image-url" src=
-            "https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive_2020-sign-logo-left.jpg"
+            "https://cdn.treehouseinternetgroup.com/cms_images/872/CNLive_2021-sign-logo.jpg"
               name="preview-image-url" /></a>
                 <tr>
-                  <td colspan="2" style="padding-top: 5px;">
+                  <td colspan="2" style="padding: 5px 41px;">
                     <a href="https://www.facebook.com/contractornation" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="20"
                     height="20" style=
