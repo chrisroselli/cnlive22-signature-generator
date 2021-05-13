@@ -56,19 +56,19 @@
                     height="20" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/cnlive-fb.png" /></a>&nbsp;&nbsp;<a href="https://twitter.com/ContractorNatn" target="_blank"
+                    "https://cdn.treehouseinternetgroup.com/cms_images/872/cnlive-fb.png" /></a>&nbsp;&nbsp;<a href="https://twitter.com/ContractorNatn" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="20"
                     height="20" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/cnlive-twitter.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/contractor.nation/" target="_blank"
+                    "https://cdn.treehouseinternetgroup.com/cms_images/872/cnlive-twitter.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/contractor.nation/" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="20"
                     height="20" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/cnlive-instagram.png" /></a>
+                    "https://cdn.treehouseinternetgroup.com/cms_images/872/cnlive-instagram.png" /></a>
                   </td>
                 </tr>
               </table>
