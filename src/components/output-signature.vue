@@ -7,8 +7,8 @@
             <td valign="top" style=
             "padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0; border-right: solid 2px #FF7F30">
             <a href="https://www.contractornationlive.com/"><img width="175"
-                    height="96" style="width: 175px; max-width: 175px !important; height: 96px; max-height: 96px !important;" id="preview-image-url" src=
-            "https://cdn.treehouseinternetgroup.com/cms_images/872/CNLive_2020_sign_logo.jpg"
+                    height="132" style="width: 175px; max-width: 175px !important; height: 132px; max-height: 132px !important;" id="preview-image-url" src=
+            "https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive_2022_sign_2.jpg"
               name="preview-image-url" /></a>
             </td>
             
@@ -38,6 +38,19 @@
                   {{phone}}
                   </td>
                 </tr>
+                  <tr>
+                  <td width="20" valign="top" style=
+                  "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  w:
+                  </td>
+                  <td valign="top" style=
+                  "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  <a href="https://www.contractornationlive.com" target="_blank" style=
+                  "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
+                    www.contractornationlive.com</a>
+                    &nbsp;&nbsp;
+                  </td>
+                </tr> 
                 <tr>
                     <td width="20" valign="top" style=
                     "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
