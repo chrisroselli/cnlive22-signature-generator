@@ -65,7 +65,7 @@
               <li>3. Adjust logo size if needed</li>
               <li>4. Result may look funny in Signature preferences, but try in a new message</li>
             </ul>
-          <img src="http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/sign-copy3.gif" alt="">
+          <img src="https://cdn.treehouseinternetgroup.com/cms_images/2535/sign-copy4.gif" alt="">
         </div>
           </modal>
     </div>
