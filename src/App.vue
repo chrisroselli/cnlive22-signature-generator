@@ -60,7 +60,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of CNLIVE logo and click & drag to bottom-right corner of <img style="border-radius:0;moz-border-radius:0;khtml-border-radius:0;o-border-radius:0;webkit-border-radius:0;ms-border-radius:0;border: 0;width:16px; height:16px;" width="16" height="16" src="http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/687/cnlive-instagram.png"></li>
+              <li>1. Place cursor at the top-left corner of CNLIVE logo and click & drag to bottom-right corner of <img style="border-radius:0;moz-border-radius:0;khtml-border-radius:0;o-border-radius:0;webkit-border-radius:0;ms-border-radius:0;border: 0;width:16px; height:16px;" width="16" height="16" src="https://cdn.treehouseinternetgroup.com/cms_images/872/cnlive-instagram.png"></li>
               <li>2. Paste into your Outlook signature preferences panel</li>
               <li>3. Adjust logo size if needed</li>
               <li>4. Result may look funny in Signature preferences, but try in a new message</li>
