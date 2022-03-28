@@ -45,7 +45,6 @@ export default {
 <style scoped>
 section {
     margin-bottom: 150px;
-
 }
 h1,
 h2 {

@@ -1,6 +1,5 @@
 <template>
-  <div>
-            
+  <div>    
     <section>
       <form @submit.prevent="validateBeforeSubmit">
         <div class="field">

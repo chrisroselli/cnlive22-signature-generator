@@ -10,7 +10,6 @@
                     height="145" style="width: 175px; max-width: 175px !important; height: 145px; max-height: 145px !important;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive_2022_sign_8.jpg"
               name="preview-image-url" /></a>
             </td>
-            
             <td style=
             "padding-top: 0; padding-bottom: 0; padding-left: 12px; padding-right: 0;">
             <table cellpadding="0" cellspacing="0" border="0" style=
