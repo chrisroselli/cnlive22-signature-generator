@@ -90,7 +90,7 @@
 
 <!----------------- Badge Modal ---------------->   
 
-        <modal name="badge" :height="240">
+        <modal name="badge" :height="240"> 
                     <div class="sign-box level-item has-text-centered">
               <div class="output-btn">
                   <p class="field">
