@@ -8,7 +8,7 @@
            <img src="https://cdn.treehouseinternetgroup.com/cms_images/2535/cnlive22-sign-title.png" alt="">
           </div>
         <h1 class="sub-text title has-text-centered">
-            <p>Signature Generator</p> 
+            <p>Signature Generator</p>  
         </h1>
         </div>
       </div>

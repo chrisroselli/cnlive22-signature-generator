@@ -36,7 +36,7 @@
           </tr>
         </table>
     </section>
-  </div>
+  </div> 
 </template>
 
 <script>
