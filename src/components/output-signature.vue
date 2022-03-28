@@ -90,7 +90,7 @@
         </table>
     </section>
   </div>
-</template> 
+</template>
 
 <script>
 // import {bus} from '../main'
