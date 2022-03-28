@@ -41,7 +41,7 @@
         </div>
       </div>
  <!----------------- Modal ---------------->    
- 
+
         <modal name="output" :height="415">
          
           <div class="sign-box level-item has-text-centered">

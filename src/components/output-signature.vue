@@ -91,7 +91,6 @@
     </section>
   </div>
 </template>
-
 <script>
 // import {bus} from '../main'
 export default {
