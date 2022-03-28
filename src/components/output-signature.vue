@@ -7,8 +7,8 @@
             <td valign="top" style=
             "padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0; border-right: solid 2px #FF7F30">
             <a href="https://www.contractornationlive.com/"><img width="175"
-                    height="132" style="width: 175px; max-width: 175px !important; height: 132px; max-height: 132px !important;" id="preview-image-url" src=
-            "https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive_2022_sign_2.jpg"
+                    height="145" style="width: 175px; max-width: 175px !important; height: 145px; max-height: 145px !important;" id="preview-image-url" src=
+            "https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive_2022_sign_7.jpg"
               name="preview-image-url" /></a>
             </td>
             
